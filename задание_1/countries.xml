@@ -1,0 +1,18 @@
+<countries>
+    <country>
+        <name>United States</name>
+        <capital>Washington, D.C.</capital>
+    </country>
+    <country>
+        <name>China</name>
+        <capital>Beijing</capital>
+    </country>
+    <country>
+        <name>Brazil</name>
+        <capital>Brasília</capital>
+    </country>
+    <country>
+        <name>Germany</name>
+        <capital>Berlin</capital>
+    </country>
+</countries>

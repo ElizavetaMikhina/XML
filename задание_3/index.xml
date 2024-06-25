@@ -1,0 +1,12 @@
+<!-- Решение -->
+
+<?xml version="1.0" encoding="UTF-8"?>
+<order orderid="ORD-2024-44444">
+    <firstname>John</firstname>
+    <lastname>Doe</lastname>
+    <orderdate>2024-06-25</orderdate>
+    <deliverydate>2024-08-09</deliverydate>
+    <price>350</price>
+    <boxcount>2</boxcount>
+    <mobile>89995554466</mobile>
+</order>

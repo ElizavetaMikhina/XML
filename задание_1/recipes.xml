@@ -1,0 +1,33 @@
+<recipes>
+    <recipe>
+        <name>Spaghetti Carbonara</name>
+        <ingredients>
+            <ingredient>Pasta</ingredient>
+            <ingredient>Eggs</ingredient>
+            <ingredient>Bacon</ingredient>
+            <ingredient>Parmesan</ingredient>
+        </ingredients>
+        <instructions>Boil pasta. Cook bacon. Mix eggs with cheese. Combine all together.</instructions>
+    </recipe>
+    <recipe>
+        <name>Chocolate Cake</name>
+        <ingredients>
+            <ingredient>Flour</ingredient>
+            <ingredient>Sugar</ingredient>
+            <ingredient>Cocoa</ingredient>
+            <ingredient>Eggs</ingredient>
+            <ingredient>Butter</ingredient>
+        </ingredients>
+        <instructions>Mix all ingredients. Bake in the oven at 180°C for 30 minutes.</instructions>
+    </recipe>
+    <recipe>
+        <name>Caesar Salad</name>
+        <ingredients>
+            <ingredient>Romaine Lettuce</ingredient>
+            <ingredient>Croutons</ingredient>
+            <ingredient>Caesar Dressing</ingredient>
+            <ingredient>Parmesan</ingredient>
+        </ingredients>
+        <instructions>Chop lettuce. Add croutons and Parmesan. Toss with Caesar dressing.</instructions>
+    </recipe>
+</recipes>

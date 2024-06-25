@@ -1,0 +1,30 @@
+<plants>
+    <plant>
+        <name>Rose</name>
+        <water_frequency>Weekly</water_frequency>
+    </plant>
+    <plant>
+        <name>Tulip</name>
+        <water_frequency>Biweekly</water_frequency>
+    </plant>
+    <plant>
+        <name>Sunflower</name>
+        <water_frequency>Weekly</water_frequency>
+    </plant>
+    <plant>
+        <name>Cactus</name>
+        <water_frequency>Monthly</water_frequency>
+    </plant>
+    <plant>
+        <name>Fern</name>
+        <water_frequency>Twice Weekly</water_frequency>
+    </plant>
+    <plant>
+        <name>Mint</name>
+        <water_frequency>Every 3 Days</water_frequency>
+    </plant>
+    <plant>
+        <name>Lavender</name>
+        <water_frequency>Weekly</water_frequency>
+    </plant>
+</plants>
